@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/196/131/596/star-wars-darth-vader-movies-anakin-skywalker-wallpaper-preview.jpg" width="100%"/>
+<img src="https://c4.wallpaperflare.com/wallpaper/640/48/891/star-wars-galaxies-star-wars-ultrawide-hd-wallpaper-preview.jpg" width="100%"/>
 
 <h1 align="center">Hi, I'm Zakaria Dakir</h1>
 <p align="center">I'm 21-year-old aspiring Front-End Developer from Casablanca, Morocco. Driven by my passion for web development, I am dedicated to mastering HTML, CSS, and JavaScript to create engaging and user-friendly web interfaces.</p>
